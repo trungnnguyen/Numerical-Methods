@@ -4,8 +4,6 @@ Different numerical techniques used to solve various problems such as:
 Differentiation
 Integration
 Solving linear set of equations
-finding roots of a polynomial equation
-Solving non-linear equations
 
 Programs:
 1. decimal to binary(bits).py - Converts a given real number in to it's corresponding 32 bit form (1 sign bit, 23 bits for mantissa 8 bits for exponent)
